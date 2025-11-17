@@ -11,7 +11,7 @@ Generate RAG-ready documentation bundles for your Go projects without digging th
 ## Install
 
 ```bash
-go install github.com/natedelduca/go-rag-pack/cmd/go-rag-pack@latest
+go install github.com/TypeTerrors/go.rag-docs/cmd/go-rag-pack@latest
 ```
 
 Or run straight from source inside the repo:
